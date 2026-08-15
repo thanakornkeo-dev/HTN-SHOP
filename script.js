@@ -9,7 +9,7 @@ const products = [
         category: "fashion",
         categoryName: "เสื้อผ้า",
         price: 299,
-        image: "images/htn jersey.jpg",
+        image: "htn jersey.jpg",
         description: "เสื้อJersey ดีไซน์สุดเฟี้ยว"
     },
 
@@ -19,7 +19,7 @@ const products = [
         category: "fashion",
         categoryName: "เสื้อผ้า",
         price: 199,
-        image: "images/htn t-shirt.jpg",
+        image: "htn t-shirt.jpg",
         description: "T-shirt ดีไซน์ทันสมัย"
     },
 
@@ -29,7 +29,7 @@ const products = [
         category: "shoes",
         categoryName: "รองเท้า",
         price: 399,
-        image: "images/htn slides.jpg",
+        image: "htn slides.jpg",
         description: "รองเท้าสำหรับใส่ในชีวิตประจำวัน"
     },
 
@@ -39,7 +39,7 @@ const products = [
         category: "shoes",
         categoryName: "รองเท้า",
         price: 1290,
-        image: "images/htn running shoes.jpg",
+        image: "htn running shoes.jpg",
         description: "รองเท้ากีฬาน้ำหนักเบา"
     },
 
@@ -49,7 +49,7 @@ const products = [
         category: "bag",
         categoryName: "กระเป๋า",
         price: 499,
-        image: "images/htn shoulder bag.jpg",
+        image: "htn shoulder bag.jpg",
         description: "กระเป๋าสะพายสำหรับทุกวัน"
     },
 
@@ -59,7 +59,7 @@ const products = [
         category: "accessory",
         categoryName: "อุปกรณ์เสริม",
         price: 1990,
-        image: "images/htn-watch.jpg",
+        image: "htn-watch.jpg",
         description: "HTN Watch ดีไซน์เรียบหรู"
     },
 
@@ -69,7 +69,7 @@ const products = [
         category: "fashion",
         categoryName: "เสื้อผ้า",
         price: 399,
-        image: "images/htn-shorts.jpg",
+        image: "htn-shorts.jpg",
         description: "กางเกงขาสั้น แฟชั่นสำหรับทุกโอกาส"
     }
 
